@@ -1,5 +1,5 @@
 # Calculadora-de-partidas-ranqueadas
-Este projeto calcula o nível de vitórias e derrotas de um jogador e relaciona o resultado com o nível proporcional.
+Este projeto calcula o número de vitórias e derrotas de um jogador e relaciona o resultado com o nível proporcional.
 
 
 let saldoVitoria = calcularPartidas(50, 10)
